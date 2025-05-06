@@ -7,7 +7,7 @@ on:
 env:
   AWS_REGION: us-west-2  # Change to your preferred region
   INSTANCE_TYPE: t2.micro  # Change instance type if needed
-  AMI_ID: ami-09f6c9efbf93542be  # Ubuntu 22.04 LTS in us-east-1
+  AMI_ID: ami-075686beab831bb7f  # Ubuntu 22.04 LTS in us-east-1
   SECURITY_GROUP_NAME: nutriplan-sg
   KEY_PAIR_NAME: nutriplan-key
 
